@@ -1065,9 +1065,9 @@ ansi-styles@^3.2.1:
   dependencies:
     color-convert "^1.9.0"
 
-antd@^3.15.2:
+antd@^3.20.7:
   version "3.20.7"
-  resolved "https://registry.npm.taobao.org/antd/download/antd-3.20.7.tgz#a01b0a23dc9bb93de79b8847fa754c6caae1686c"
+  resolved "https://registry.npm.taobao.org/antd/download/antd-3.20.7.tgz?cache=0&sync_timestamp=1564074335874&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fantd%2Fdownload%2Fantd-3.20.7.tgz#a01b0a23dc9bb93de79b8847fa754c6caae1686c"
   integrity sha1-oBsKI9ybuT3nm4hH+nVMbKrhaGw=
   dependencies:
     "@ant-design/create-react-context" "^0.2.4"
@@ -1327,7 +1327,7 @@ babel-plugin-dynamic-import-node@^2.3.0:
   dependencies:
     object.assign "^4.1.0"
 
-babel-plugin-import@^1.11.0:
+babel-plugin-import@^1.12.0:
   version "1.12.0"
   resolved "https://registry.npm.taobao.org/babel-plugin-import/download/babel-plugin-import-1.12.0.tgz#12d50950aecfd8de3f10880730221f0f0843a755"
   integrity sha1-EtUJUK7P2N4/EIgHMCIfDwhDp1U=
@@ -2936,7 +2936,7 @@ invariant@^2.2.2, invariant@^2.2.4:
   dependencies:
     loose-envify "^1.0.0"
 
-ioredis@^4.9.0:
+ioredis@^4.11.2:
   version "4.11.2"
   resolved "https://registry.npm.taobao.org/ioredis/download/ioredis-4.11.2.tgz#b76c1a8290f581ce30af3fd00f27d38a301472c6"
   integrity sha1-t2wagpD1gc4wrz/QDyfTijAUcsY=
