@@ -1340,7 +1340,7 @@ babel-plugin-react-require@3.0.0:
   resolved "https://registry.npm.taobao.org/babel-plugin-react-require/download/babel-plugin-react-require-3.0.0.tgz#2e4e7b4496b93a654a1c80042276de4e4eeb20e3"
   integrity sha1-Lk57RJa5OmVKHIAEInbeTk7rIOM=
 
-"babel-plugin-styled-components@>= 1", babel-plugin-styled-components@^1.10.0:
+"babel-plugin-styled-components@>= 1", babel-plugin-styled-components@^1.10.6:
   version "1.10.6"
   resolved "https://registry.npm.taobao.org/babel-plugin-styled-components/download/babel-plugin-styled-components-1.10.6.tgz#f8782953751115faf09a9f92431436912c34006b"
   integrity sha1-+HgpU3URFfrwmp+SQxQ2kSw0AGs=
@@ -5706,7 +5706,7 @@ strip-json-comments@~2.0.1:
   resolved "https://registry.npm.taobao.org/strip-json-comments/download/strip-json-comments-2.0.1.tgz#3c531942e908c2697c0ec344858c286c7ca0a60a"
   integrity sha1-PFMZQukIwml8DsNEhYwobHygpgo=
 
-styled-components@^4.2.0:
+styled-components@^4.3.2:
   version "4.3.2"
   resolved "https://registry.npm.taobao.org/styled-components/download/styled-components-4.3.2.tgz?cache=0&sync_timestamp=1561991520774&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fstyled-components%2Fdownload%2Fstyled-components-4.3.2.tgz#4ca81918c812d3006f60ac5fdec7d6b64a9509cc"
   integrity sha1-TKgZGMgS0wBvYKxf3sfWtkqVCcw=
