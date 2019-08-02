@@ -14,7 +14,7 @@ function MyCount () {
     const [count , dispatchCount] = useReducer(bReducer, 0)
     const [inputValue, setValue] = useState('zhaikui')
     const change = useCallback(() => dispatchCount({type: 'add'}), [])
-    const config = useMemo(() =>({
+    const config = useMemo(() => ({
         color: count > 3 ? 'red' : 'blue',
         text: `count is ${count}`
     }), [count])
